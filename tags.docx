@@ -1,0 +1,7 @@
+tag div: <div> serve para alterar o estilo em partes específicas da página e posicionar objetos.
+
+tag ID: serve para especificar um unico elemento no HTML. Não se pode ter mais de um objeto com o mesmo
+ID num documento HTML.
+
+tag fieldset: O elemento HTML <fieldset> é usado para agrupar elementos, assim como labels (<label>), 
+dentro de um formulário web
